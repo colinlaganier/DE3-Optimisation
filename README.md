@@ -1,6 +1,6 @@
 # Brushless DC Motor Stator Optimisation
 
-<img src="./Images/stator.png" width="500">
+<img src="./Images/stator.jpg" width="500">
 
 **Sub-system 2:** Colin Laganier
 
